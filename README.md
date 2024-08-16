@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prattie
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on DevOps
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on Applied AI projects
 
 
 <!---
